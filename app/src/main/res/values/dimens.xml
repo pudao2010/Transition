@@ -1,0 +1,13 @@
+<resources>
+    <!--  Toast  -->
+    <dimen name="toast_width">648px</dimen>
+    <dimen name="toast_height">140px</dimen>
+    <dimen name="toast_content_padding_top">28px</dimen>
+    <dimen name="toast_content_padding_bottom">28px</dimen>
+    <dimen name="toast_content_padding_left">36px</dimen>
+    <dimen name="toast_content_padding_right">36px</dimen>
+    <dimen name="toast_ic_width">60px</dimen>
+    <dimen name="toast_ic_height">60px</dimen>
+    <dimen name="toast_text_size">35px</dimen>
+    <dimen name="toast_ic_margin_right">20px</dimen>
+</resources>

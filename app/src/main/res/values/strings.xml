@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HenCoder 绘制 1</string>
+    <string name="title_draw_color">drawColor()</string>
+    <string name="title_draw_circle">drawCircle()</string>
+    <string name="title_draw_rect">drawRect()</string>
+    <string name="title_draw_point">drawPoint()</string>
+    <string name="title_draw_oval">drawOval()</string>
+    <string name="title_draw_line">drawLine()</string>
+    <string name="title_draw_round_rect">drawRoundRect()</string>
+    <string name="title_draw_arc">drawArc()</string>
+    <string name="title_draw_path">drawPath()</string>
+    <string name="title_draw_histogram">直方图</string>
+    <string name="title_draw_pie_chart">饼图</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_zoom_touch_expand">Touch a photo to expand it.</string>
+    <string name="description_image_1">Image 1</string>
+    <string name="description_image_2">Image 2</string>
+    <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+
+</resources>
